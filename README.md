@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Automated Assessment System for Programming Assignments**
 
-- 🌱 I’m currently learning **Flutter and React Native**
+- 🌱 I’m currently learning **Devops**
 
-- 👯 I’m looking to collaborate on **freelance frontend projects**
+- 👯 I’m looking for an **Internship**
 
 - 💬 Ask me about **Frontend Tools**
 
