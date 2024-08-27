@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Automated Assessment System for Programming Assignments**
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently learning **Devops and Neo4j**
 
 - 👯 I’m looking for an **Internship**
 
